@@ -1,0 +1,38 @@
+---
+surname: Mark Fransham
+position: "Senior Research Officer and Departmental Lecturer in Quantitative Methods"
+address: "Department of Social Policy and Intervention, University of Oxford, Barnett House, Wellington Square, Oxford OX1 2ER"
+phone: +44 (0)1865 270352
+www: mfransham.github.io
+email: mark.fransham@spi.ox.ac.uk
+twitter: markfransham
+github: mfransham
+headcolor: "414141"
+output: 
+  vitae::awesomecv:
+    page_total: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Current positions
+
+ * Detail
+
+# Previous research positions
+
+
+# Education
+
+  * Detail, just university education
+
+# Publications
+
+
+# Funding
+
+
+# Other stuff 
