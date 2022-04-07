@@ -51,7 +51,7 @@ Nacro
 **DPhil in Geography & the Environment** \hfill 2015-2018       
 School of Geography & the Environment, University of Oxford           
   - Thesis title: *Understanding neighbourhood income poverty dynamics in England*        
-  - Supervisors Professor Danny Dorling and Dr Rachel Loopstra        
+  - Supervisors: Professor Danny Dorling and Dr Rachel Loopstra        
   - Passed without corrections        
 
 **MSc Applied Social Studies / Diploma in Social Work** \hfill 2000-2002        
@@ -67,6 +67,8 @@ St Catherine’s College, University of Oxford
 Fransham, M., Herbertson, M., Pop, M., Bandeira Morais, M., Lee, N. (in preparation) Level best? The levelling up agenda and UK regional inequality.
 
 Fransham, M., Bauluz, L., Breau, S., Lee, N. & Verdugo, G., (in preparation) International trends in geographic income inequality: a method for assessing the comparability of spatial units.  
+
+\newpage
 
 ## Peer-reviewed journal articles
 
@@ -92,46 +94,54 @@ Fransham, M., & Dorling, D. (2018). Homelessness and Public Health. *British Med
 
 Fransham, M., & Dorling, D. (2017). Have mortality improvements stalled in England? *British Medical Journal*, 1946, j1946. http://doi.org/10.1136/bmj.j1946
 
-Fransham, M., & Dorling, D. (2017, April 8). Oxford academics: “House prices can keep rising only if the Government backs mass buy-to-let.” *The Telegraph*. London. (http://www.telegraph.co.uk/investing/buy-to-let/oxford-academics-house-prices-can-keep-rising-government-backs/)
+Fransham, M., & Dorling, D. (2017, April 8). Oxford academics: “House prices can keep rising only if the Government backs mass buy-to-let.” *The Telegraph*. London.
 
 # Funding
 
-ESRC Open Research Area 6 funding for *Linking National and Regional Income Inequality: Cross-Country Data Harmonization and Analysis*. Total ESRC funding £458,480; total project funding approx £1.2 million (grant number ES/V013548/1)
+**ESRC Open Research Area 6** \hfill 2021-2023        
+*Linking National and Regional Income Inequality: Cross-Country Data Harmonization and Analysis*       
+Co-Investigator with partners at LSE, McGill, Bonn and Paris-Saclay universities        
+Total ESRC funding £458,480; total project funding approx £1.2 million; grant number ES/V013548/1
 
-3 year joint ESRC/EPSRC studentship, Social Sciences Doctoral Training Centre, University of
-Oxford (grant numbers ES/J500112/1, EP/K503113/1, EP/L505031/1, EP/M50659X/1)
+**3 year joint ESRC/EPSRC doctoral studentship** \hfill 2015-2018       
+Social Sciences Doctoral Training Centre, University of Oxford        
+Grant numbers ES/J500112/1, EP/K503113/1, EP/L505031/1, EP/M50659X/1
 
 # Teaching experience
 
 ## Current teaching at University of Oxford
 
-BA Philosophy, Politics and Economics / History & Politics / Human Sciences
+**BA Philosophy, Politics and Economics / History & Politics / Human Sciences**        
+Social Policy 224 undergraduate option: poverty
 
-- Social Policy 224 undergraduate option
+**MSc/MPhil Evidence-Based Social Intervention and Policy Evaluation**       
+Quantitative Analysis module convenor            
+Evaluation Methods module: matching methods, synthetic control, difference-in- differences        
+Social Policy Analysis module       
+Thesis supervision        
 
-MSc/MPhil Evidence-Based Social Intervention and Policy Evaluation
+**MSc/MPhil Comparative Social Policy**       
+Social Policy Analysis module       
+Thesis supervision        
 
-- Quantitative Analysis module
-- Evaluation Methods module
-- Social Policy Analysis module
-- Thesis supervision
-
-MSc/MPhil Comparative Social Policy
-
-- Social Policy Analysis module
-- Thesis supervision
-
-DPhil (PhD) Social Policy / Social Intervention & Policy Evaluation
-
-- Methods Hub
-- Transfer of Status and Confirmation of Status assessments
+**DPhil (PhD) Social Policy / Social Intervention & Policy Evaluation**       
+Methods Hub (methods advice and guidance on training opportunities)      
+Convenor of *Modern Methods in Social Policy and Intervention Research* seminar series        
+Transfer of Status and Confirmation of Status assessments       
 
 ## Past teaching
 
-- London School of Economics Masterclass *Inequality and Social Cohesion: A Global Perspective* for Fundacion Ramon Areces, Madrid (July 2019)
-- MSc Inequalities and Social Science, London School of Economics: dissertation supervision (2018-2020)
-- BA Philosophy, Politics and Economics, University of Oxford: Social Policy 224 undergraduate option (2017-2019, as a college tutor)
-- BA Geography, University of Oxford: Applied Statistics module (2017, as teaching assistant)
+**London School of Economics Masterclass** *Inequality and Social Cohesion: A Global Perspective* \hfill July 2019        
+Fundacion Ramon Areces, Madrid 
+
+**MSc Inequalities and Social Science, London School of Economics**  \hfill 2018-2020        
+Dissertation supervision
+
+**BA Philosophy, Politics and Economics, University of Oxford** \hfill 2017-2019       
+Social Policy 224 undergraduate option (2017-2019, as a college tutor)
+
+**BA Geography, University of Oxford** \hfill 2017        
+Applied Statistics module (as teaching assistant)
 
 # Administrative and professional service experience
 
@@ -151,9 +161,10 @@ Reviewer for *Journal of the Royal Statistical Society Series A*, *Social Scienc
 ## Administrative service
 
 Ethics Committee, Department of Social Policy & Intervention, University of Oxford \hfill 2021-current        
-Teaching Committees for MSc in Evidence-Based Social Intervention and Policy Evaluation and MSc in Comparative Social Policy, Department of Social Policy & Intervention, University of Oxford \hfill 2020-current        
+MSc Teaching Committees, Department of Social Policy & Intervention, University of Oxford \hfill 2020-current        
 Research Committee, International Inequalities Institute, London School of Economics  \hfill 2019-2010        
-Equality and Diversity Committee, School of Geography & the Environment, University of Oxford (Contributed to the successful application for an Athena SWAN Bronze Award) \hfill 2015-2017         
+Equality and Diversity Committee, School of Geography & the Environment, University of Oxford \hfill 2015-2017         
+\hspace*{1cm} (Contributed to the successful application for an Athena SWAN Bronze Award)     
 
 ## Professional membership
 
