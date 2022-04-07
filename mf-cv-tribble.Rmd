@@ -1,0 +1,155 @@
+---
+surname: Mark Fransham
+position: "Senior Research Officer and Departmental Lecturer in Quantitative Methods"
+address: "Dept of Social Policy & Intervention, University of Oxford, 32 Wellington Square, Oxford OX1 2ER"
+phone: +44 (0)1865 270352
+www: mfransham.github.io
+email: mark.fransham@spi.ox.ac.uk
+headcolor: "414141"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tibble)
+```
+
+# Current positions
+
+```{r}
+tribble(
+  ~position, ~institution, ~date, 
+  "Senior Research Officer", "Department of Social Policy & Intervention, University of Oxford", "Jan 2021 - ",
+  "Departmental Lecturer in Quantitative Methods", "Department of Social Policy & Intervention, University of Oxford", "Sep 2020 - ", 
+"Junior Research Fellow", "Wolfson College, University of Oxford", "Oct 2020 - ", 
+"Visiting Fellow", "International Inequalities Institute, London School of Economics & Political Science", "Oct 2020 - "
+) %>% 
+  detailed_entries(what = institution, with = position, when = date)
+```
+
+# Previous positions
+
+```{r}
+tribble(
+  ~position, ~institution, ~date, 
+  "Research Officer", "International Inequalities Institute, London School of Economics & Political Science", "2018-2020", 
+  "Social Statistics Officer", "Oxford City Council", "2007-2016", 
+  "Policy Officer (Social Inclusion & Health Inequalities)", "Oxford City Council", "2005-2007", 
+  "Cancer Information Analyst", "Cancer Information Analyst", "2004-2005", 
+  "Research & Evaluation Officer", "Nacro", "2002-2004"
+) %>% 
+  detailed_entries(what = institution, with = position, when = date)
+```
+
+# Education
+
+```{r}
+tribble(
+  ~qual, ~institution, ~date, ~details,
+  "DPhil in Geography & the Environment", "School of Geography & the Environment, University of Oxford", "2015-2018", c("Thesis title: *Understanding neighbourhood income poverty dynamics in England*", 
+  "Supervisors Professor Danny Dorling and Dr Rachel Loopstra",
+  "Passed without corrections"),
+  "MSc Applied Social Studies / Diploma in Social Work", "Department of Social Policy and Social Work, University of Oxford", "2000-2002", character(),
+  "BA Hons Physics 2:1", "St Catherine’s College, University of Oxford", "1995-1998", character()) %>% 
+  detailed_entries(what = institution, with = qual, when = date, why = details)
+```
+
+# Publications
+
+## Works in progress
+
+Fransham, M., Herbertson, M., Pop, M., Bandeira Morais, M., Lee, N. (in preparation) Level best? The levelling up agenda and UK regional inequality.
+
+Fransham, M., Bauluz, L., Breau, S., Lee, N. & Verdugo, G., (in preparation) International trends in geographic income inequality: a method for assessing the comparability of spatial units.  
+
+## Peer-reviewed journal articles
+
+Reeves, A., Fransham, M., Stewart, K., & Patrick, R. (2021). Does capping social security harm health? A natural experiment in the UK. *Social Policy & Administration*. https://doi.org/10.1111/spol.12768 ([Guardian](https://www.theguardian.com/commentisfree/2021/oct/03/universal-credit-cut-will-risk-the-health-of-millions) | [New Psychotherapist](https://www.psychotherapy.org.uk/media/otzimjco/79-new-psychotherapist-winter-spring-2022.pdf))
+
+Koch, I., Fransham, M., Cant, S., Ebrey, J., Glucksberg, L., & Savage, M. (2020). Social Polarisation at the Local Level: A Four-Town Comparative Study on the Challenges of Politicising Inequality in Britain, *Sociology*, 55(1), 3–29. https://doi.org/10.1177/0038038520975593 (nominated for [2022 SAGE Prize for Innovation/Excellence](https://www.britsoc.co.uk/opportunities/sage-prize-for-innovationexcellence/))
+
+Fransham, M. (2020) Neighbourhood gentrification, displacement, and poverty dynamics in post-recession England, *Population, Space and Place*, 25(5):e2327.  https://doi.org/10.1002/psp.2327 
+
+Fransham, M. (2019) Increasing evenness in the neighbourhood distribution of income poverty in England 2005–2014: Age differences and the influence of private rented housing, *Environment and Planning A: Economy and Space* 51(2), 403–419. https://doi.org/10.1177/0308518X18792569 
+
+Fransham, M. (2019) Income and Population Dynamics in Deprived Neighbourhoods: Measuring the Poverty Turnover Rate Using Administrative Data, *Applied Spatial Analysis and Policy* 12(2), 275-300. https://link.springer.com/article/10.1007/s12061-017-9242-6 
+
+## Working papers and other publications
+
+Fransham, M. (forthcoming). Poverty. In D. Demeritt & L. Lees (Eds.), *Concise Encyclopedia of Human Geography*. Edward Elgar.
+
+Reeves, A., Fransham, M., Stewart, K., & Patrick, R. (2021). *Does capping social security harm health? A natural experiment in the UK*. Working Paper CASE/221, Centre for Analysis of Social Exclusion, London School of Economics & Political Science. https://sticerd.lse.ac.uk/dps/case/cp/casepaper221.pdf
+
+Koch, I., Fransham, M., Cant, S., Ebrey, J., Glucksberg, L. and Savage, M. (2019) *Social polarisation at the local level: a four-town comparative study*. Working Paper (37). International Inequalities Institute, London School of Economics & Political Science, London, UK. http://eprints.lse.ac.uk/102216/
+
+Fransham, M., & Dorling, D. (2018). Homelessness and Public Health. *British Medical Journal*, 360, k214. https://doi.org/10.1136/bmj.k214 
+
+Fransham, M., & Dorling, D. (2017). Have mortality improvements stalled in England? *British Medical Journal*, 1946, j1946. http://doi.org/10.1136/bmj.j1946
+
+Fransham, M., & Dorling, D. (2017, April 8). Oxford academics: “House prices can keep rising only if the Government backs mass buy-to-let.” *The Telegraph*. London. (http://www.telegraph.co.uk/investing/buy-to-let/oxford-academics-house-prices-can-keep-rising-government-backs/)
+
+# Funding
+
+ESRC Open Research Area 6 funding for *Linking National and Regional Income Inequality: Cross-Country Data Harmonization and Analysis*. Total ESRC funding £458,480; total project funding approx £1.2 million (grant number ES/V013548/1)
+
+3 year joint ESRC/EPSRC studentship, Social Sciences Doctoral Training Centre, University of
+Oxford (grant numbers ES/J500112/1, EP/K503113/1, EP/L505031/1, EP/M50659X/1)
+
+# Teaching experience
+
+## Current teaching at University of Oxford
+
+BA Philosophy, Politics and Economics / History & Politics / Human Sciences
+
+- Social Policy 224 undergraduate option
+
+MSc/MPhil Evidence-Based Social Intervention and Policy Evaluation
+
+- Quantitative Analysis module
+- Evaluation Methods module
+- Social Policy Analysis module
+- Thesis supervision
+
+MSc/MPhil Comparative Social Policy
+
+- Social Policy Analysis module
+- Thesis supervision
+
+DPhil (PhD) Social Policy / Social Intervention & Policy Evaluation
+
+- Methods Hub
+- Transfer of Status and Confirmation of Status assessments
+
+## Past teaching
+
+- London School of Economics Masterclass *Inequality and Social Cohesion: A Global Perspective* for Fundacion Ramon Areces, Madrid (July 2019)
+- MSc Inequalities and Social Science, London School of Economics: dissertation supervision (2018-2020)
+- BA Philosophy, Politics and Economics, University of Oxford: Social Policy 224 undergraduate option (2017-2019, as a college tutor)
+- BA Geography, University of Oxford: Applied Statistics module (2017, as teaching assistant)
+
+# Administrative and professional service experience
+
+## Advisory positions
+
+Government Statistical Service Migration Statistics Expert Group \hfill 2020-current 		
+Member of Council, British Society for Population Studies \hfill 2019-current 		
+UK Population Theme Advisory Board, Office for National Statistics \hfill 2016-current 		
+Local Authority Co-Chair, Local Government Association CLIP Population Subgroup \hfill 2013-2015	
+Official Statistics Committee, Royal Statistical Society \hfill 2012-2014       
+Chair, Oxfordshire Data Observatory \hfill 2008-2010	
+
+## Peer review
+
+Reviewer for *Journal of the Royal Statistical Society Series A*, *Social Science & Medicine*, *SSM - Population Health*, *Cambridge Journal of Regions, Economy & Society*, *Regional Studies*, *BMJ Open*, *Journal of Social Policy* and *Urban Studies*.
+
+## Administrative service
+
+Ethics Committee, Department of Social Policy & Intervention, University of Oxford \hfill 2021-current        
+Teaching Committees for MSc in Evidence-Based Social Intervention and Policy Evaluation and MSc in Comparative Social Policy, Department of Social Policy & Intervention, University of Oxford \hfill 2020-current        
+Research Committee, International Inequalities Institute, London School of Economics  \hfill 2019-2010        
+Equality and Diversity Committee, School of Geography & the Environment, University of Oxford (Contributed to the successful application for an Athena SWAN Bronze Award) \hfill 2015-2017         
+
+## Professional membership
+
+Royal Statistical Society (2010-), British Society for Population Studies (2014-), Social Policy Association (2017-) and Regional Studies Association (2018-)
