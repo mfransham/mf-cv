@@ -1,43 +1,74 @@
 ---
 surname: Mark Fransham
 position: "Senior Research Officer and Departmental Lecturer in Quantitative Methods"
-address: "Department of Social Policy and Intervention, University of Oxford, Barnett House, Wellington Square, Oxford OX1 2ER"
+address: "Dept of Social Policy & Intervention, University of Oxford, 32 Wellington Square, Oxford OX1 2ER"
 phone: +44 (0)1865 270352
 www: mfransham.github.io
 email: mark.fransham@spi.ox.ac.uk
-twitter: markfransham
-github: mfransham
 headcolor: "414141"
-output: 
-  vitae::awesomecv:
-    page_total: true
+output: vitae::awesomecv
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
+library(tibble)
 ```
 
 # Current positions
 
-Senior Research Officer, Department of Social Policy & Intervention, University of Oxford (Jan 2021 - )
+**Senior Research Officer** \hfill Jan 2021 -       
+Department of Social Policy & Intervention, University of Oxford 
 
-Departmental Lecturer in Quantitative Methods, Department of Social Policy & Intervention, University of Oxford (Sep 2020 - )
+**Departmental Lecturer in Quantitative Methods** \hfill Sep 2020 -           
+Department of Social Policy & Intervention, University of Oxford 
 
-Junior Research Fellow, Wolfson College, University of Oxford (Oct 2020 - )
+**Junior Research Fellow** \hfill Oct 2020 -            
+Wolfson College, University of Oxford 
 
-Visiting Fellow, International Inequalities Institute, London School of Economics & Political Science (Oct 2020 - )
+**Visiting Fellow** \hfill Oct 2020 -           
+International Inequalities Institute, London School of Economics & Political Science
 
-# Previous research positions
+# Previous positions
 
+**Research Officer** \hfill 2018-2020       
+International Inequalities Institute, London School of Economics & Political Science
+
+**Social Statistics Officer** \hfill 2007-2016       
+Oxford City Council
+
+**Policy Officer (Social Inclusion & Health Inequalities)** \hfill 2005-2007       
+Oxford City Council
+
+**Cancer Information Analyst** \hfill 2004-2005       
+Oxford Cancer Intelligence Unit, National Health Service
+
+**Research & Evaluation Officer** \hfill 2002-2004       
+Nacro
 
 # Education
 
-  * Detail, just university education
+**DPhil in Geography & the Environment** \hfill 2015-2018       
+School of Geography & the Environment, University of Oxford           
+  - Thesis title: *Understanding neighbourhood income poverty dynamics in England*        
+  - Supervisors Professor Danny Dorling and Dr Rachel Loopstra        
+  - Passed without corrections        
+
+**MSc Applied Social Studies / Diploma in Social Work** \hfill 2000-2002        
+Department of Social Policy and Social Work, University of Oxford
+
+**BA Hons Physics 2:1** \hfill 1995-1998        
+St Catherine’s College, University of Oxford
 
 # Publications
 
-### Peer-reviewed journal articles
+## Works in progress
+
+Fransham, M., Herbertson, M., Pop, M., Bandeira Morais, M., Lee, N. (in preparation) Level best? The levelling up agenda and UK regional inequality.
+
+Fransham, M., Bauluz, L., Breau, S., Lee, N. & Verdugo, G., (in preparation) International trends in geographic income inequality: a method for assessing the comparability of spatial units.  
+
+## Peer-reviewed journal articles
 
 Reeves, A., Fransham, M., Stewart, K., & Patrick, R. (2021). Does capping social security harm health? A natural experiment in the UK. *Social Policy & Administration*. https://doi.org/10.1111/spol.12768 ([Guardian](https://www.theguardian.com/commentisfree/2021/oct/03/universal-credit-cut-will-risk-the-health-of-millions) | [New Psychotherapist](https://www.psychotherapy.org.uk/media/otzimjco/79-new-psychotherapist-winter-spring-2022.pdf))
 
@@ -49,7 +80,7 @@ Fransham, M. (2019) Increasing evenness in the neighbourhood distribution of inc
 
 Fransham, M. (2019) Income and Population Dynamics in Deprived Neighbourhoods: Measuring the Poverty Turnover Rate Using Administrative Data, *Applied Spatial Analysis and Policy* 12(2), 275-300. https://link.springer.com/article/10.1007/s12061-017-9242-6 
 
-### Working papers and other publications
+## Working papers and other publications
 
 Fransham, M. (forthcoming). Poverty. In D. Demeritt & L. Lees (Eds.), *Concise Encyclopedia of Human Geography*. Edward Elgar.
 
@@ -70,4 +101,60 @@ ESRC Open Research Area 6 funding for *Linking National and Regional Income Ineq
 3 year joint ESRC/EPSRC studentship, Social Sciences Doctoral Training Centre, University of
 Oxford (grant numbers ES/J500112/1, EP/K503113/1, EP/L505031/1, EP/M50659X/1)
 
-# Other stuff 
+# Teaching experience
+
+## Current teaching at University of Oxford
+
+BA Philosophy, Politics and Economics / History & Politics / Human Sciences
+
+- Social Policy 224 undergraduate option
+
+MSc/MPhil Evidence-Based Social Intervention and Policy Evaluation
+
+- Quantitative Analysis module
+- Evaluation Methods module
+- Social Policy Analysis module
+- Thesis supervision
+
+MSc/MPhil Comparative Social Policy
+
+- Social Policy Analysis module
+- Thesis supervision
+
+DPhil (PhD) Social Policy / Social Intervention & Policy Evaluation
+
+- Methods Hub
+- Transfer of Status and Confirmation of Status assessments
+
+## Past teaching
+
+- London School of Economics Masterclass *Inequality and Social Cohesion: A Global Perspective* for Fundacion Ramon Areces, Madrid (July 2019)
+- MSc Inequalities and Social Science, London School of Economics: dissertation supervision (2018-2020)
+- BA Philosophy, Politics and Economics, University of Oxford: Social Policy 224 undergraduate option (2017-2019, as a college tutor)
+- BA Geography, University of Oxford: Applied Statistics module (2017, as teaching assistant)
+
+# Administrative and professional service experience
+
+## Advisory positions
+
+Government Statistical Service Migration Statistics Expert Group \hfill 2020-current 		
+Member of Council, British Society for Population Studies \hfill 2019-current 		
+UK Population Theme Advisory Board, Office for National Statistics \hfill 2016-current 		
+Local Authority Co-Chair, Local Government Association CLIP Population Subgroup \hfill 2013-2015	
+Official Statistics Committee, Royal Statistical Society \hfill 2012-2014       
+Chair, Oxfordshire Data Observatory \hfill 2008-2010	
+
+## Peer review
+
+Reviewer for *Journal of the Royal Statistical Society Series A*, *Social Science & Medicine*, *SSM - Population Health*, *Cambridge Journal of Regions, Economy & Society*, *Regional Studies*, *BMJ Open*, *Journal of Social Policy* and *Urban Studies*.
+
+## Administrative service
+
+Ethics Committee, Department of Social Policy & Intervention, University of Oxford \hfill 2021-current        
+Teaching Committees for MSc in Evidence-Based Social Intervention and Policy Evaluation and MSc in Comparative Social Policy, Department of Social Policy & Intervention, University of Oxford \hfill 2020-current        
+Research Committee, International Inequalities Institute, London School of Economics  \hfill 2019-2010        
+Equality and Diversity Committee, School of Geography & the Environment, University of Oxford (Contributed to the successful application for an Athena SWAN Bronze Award) \hfill 2015-2017         
+
+## Professional membership
+
+Royal Statistical Society (2010-), British Society for Population Studies (2014-), Social Policy Association (2017-) and Regional Studies Association (2018-)
