@@ -112,11 +112,11 @@ Grant numbers ES/J500112/1, EP/K503113/1, EP/L505031/1, EP/M50659X/1
 ## Current teaching at University of Oxford
 
 **BA Philosophy, Politics and Economics / History & Politics / Human Sciences**        
-Social Policy 224 undergraduate option: poverty
+Social Policy 224 option: poverty
 
 **MSc/MPhil Evidence-Based Social Intervention and Policy Evaluation**       
 Quantitative Analysis module convenor            
-Evaluation Methods module: matching methods, synthetic control, difference-in- differences        
+Evaluation Methods module: matching methods, synthetic control, difference-in-differences        
 Social Policy Analysis module       
 Thesis supervision        
 
