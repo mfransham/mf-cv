@@ -1,6 +1,6 @@
 ---
 surname: Mark Fransham
-position: "Senior Research Officer and Departmental Lecturer in Quantitative Methods"
+position: "Senior Departmental Research Lecturer in Quantitative Methods"
 address: "Dept of Social Policy & Intervention, University of Oxford, 32 Wellington Square, Oxford OX1 2ER"
 phone: +44 (0)1865 270352
 www: mfransham.github.io
@@ -17,19 +17,25 @@ library(tibble)
 
 # Current positions
 
-**Senior Research Officer** \hfill Jan 2021 -       
+**Senior Departmental Research Lecturer in Quantitative Methods** \hfill Jul 2022 -           
 Department of Social Policy & Intervention, University of Oxford 
 
-**Departmental Lecturer in Quantitative Methods** \hfill Sep 2020 -           
-Department of Social Policy & Intervention, University of Oxford 
-
-**Junior Research Fellow** \hfill Oct 2020 -            
+**Research Fellow** \hfill Apr 2023 -            
 Wolfson College, University of Oxford 
 
 **Visiting Fellow** \hfill Oct 2020 -           
 International Inequalities Institute, London School of Economics & Political Science
 
 # Previous positions
+
+**Senior Research Officer** \hfill Jan 2021 - Jun 2022      
+Department of Social Policy & Intervention, University of Oxford 
+
+**Departmental Lecturer in Quantitative Methods** \hfill Sep 2020 - Jun 2022          
+Department of Social Policy & Intervention, University of Oxford 
+
+**Junior Research Fellow** \hfill Oct 2020 - Apr 2023            
+Wolfson College, University of Oxford 
 
 **Research Officer** \hfill 2018-2020       
 International Inequalities Institute, London School of Economics & Political Science
@@ -64,15 +70,17 @@ St Catherine’s College, University of Oxford
 
 ## Works in progress
 
-Fransham, M., Herbertson, M., Pop, M., Bandeira Morais, M., Lee, N. (in preparation) Level best? The levelling up agenda and UK regional inequality.
+Bukowski, P., Fransham, M., Lee N. et al. (in preparation) Trends in spatial labour income inequality in Canada, France, Germany, UK and the US 1975‑2020: the Linking National and Regional Inequalities project. 
 
 Fransham, M., Bauluz, L., Breau, S., Lee, N. & Verdugo, G., (in preparation) International trends in geographic income inequality: a method for assessing the comparability of spatial units.  
 
-\newpage
+Reeves, A., Fransham, M., Reader, M., Stewart, K., & Patrick, R. (in preparation) Capping welfare payments for workless families increases employment and economic inactivity: evidence from the UK’s benefit cap. 
 
 ## Peer-reviewed journal articles
 
-Reeves, A., Fransham, M., Stewart, K., & Patrick, R. (2021). Does capping social security harm health? A natural experiment in the UK. *Social Policy & Administration*. https://doi.org/10.1111/spol.12768 ([Guardian](https://www.theguardian.com/commentisfree/2021/oct/03/universal-credit-cut-will-risk-the-health-of-millions) | [New Psychotherapist](https://www.psychotherapy.org.uk/media/otzimjco/79-new-psychotherapist-winter-spring-2022.pdf))
+Fransham, M., Herbertson, M., Pop, M., Morais, M. B., & Lee, N. (2023). Level best? The levelling up agenda and UK regional inequality. *Regional Studies*. https://doi.org/10.1080/00343404.2022.2159356
+
+Reeves, A., Fransham, M., Stewart, K., & Patrick, R. (2022). Does capping social security harm health? A natural experiment in the UK. *Social Policy & Administration*, 56(3), 345–359. https://doi.org/10.1111/SPOL.12768 ([Guardian](https://www.theguardian.com/commentisfree/2021/oct/03/universal-credit-cut-will-risk-the-health-of-millions) | [New Psychotherapist](https://www.psychotherapy.org.uk/media/otzimjco/79-new-psychotherapist-winter-spring-2022.pdf))
 
 Koch, I., Fransham, M., Cant, S., Ebrey, J., Glucksberg, L., & Savage, M. (2020). Social Polarisation at the Local Level: A Four-Town Comparative Study on the Challenges of Politicising Inequality in Britain, *Sociology*, 55(1), 3–29. https://doi.org/10.1177/0038038520975593 (nominated for [2022 SAGE Prize for Innovation/Excellence](https://www.britsoc.co.uk/opportunities/sage-prize-for-innovationexcellence/))
 
@@ -84,7 +92,7 @@ Fransham, M. (2019) Income and Population Dynamics in Deprived Neighbourhoods: M
 
 ## Working papers and other publications
 
-Fransham, M. (forthcoming). Poverty. In D. Demeritt & L. Lees (Eds.), *Concise Encyclopedia of Human Geography*. Edward Elgar.
+Fransham, M. (2023). Poverty. In D. Demeritt & L. Lees (Eds.), *Concise Encyclopedia of Human Geography*. Cheltenham: Edward Elgar.
 
 Reeves, A., Fransham, M., Stewart, K., & Patrick, R. (2021). *Does capping social security harm health? A natural experiment in the UK*. Working Paper CASE/221, Centre for Analysis of Social Exclusion, London School of Economics & Political Science. https://sticerd.lse.ac.uk/dps/case/cp/casepaper221.pdf
 
@@ -106,6 +114,8 @@ Total ESRC funding £458,480; total project funding approx £1.2 million; grant 
 **3 year joint ESRC/EPSRC doctoral studentship** \hfill 2015-2018       
 Social Sciences Doctoral Training Centre, University of Oxford        
 Grant numbers ES/J500112/1, EP/K503113/1, EP/L505031/1, EP/M50659X/1
+
+\newpage
 
 # Teaching experience
 
